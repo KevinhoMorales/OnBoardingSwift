@@ -1,0 +1,16 @@
+PODS:
+  - OnboardKit (1.5.0)
+
+DEPENDENCIES:
+  - OnboardKit
+
+SPEC REPOS:
+  trunk:
+    - OnboardKit
+
+SPEC CHECKSUMS:
+  OnboardKit: 73a4e9c9a1ae88afee0514ac3f2bc4f82126b66e
+
+PODFILE CHECKSUM: 243e27a57f3a1eac492fae3fb9b1d2ae2bac0c15
+
+COCOAPODS: 1.8.4
